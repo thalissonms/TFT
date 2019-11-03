@@ -1,0 +1,6 @@
+https://raw.communitydragon.org/latest/game/assets/ux/tft/championsplashes/ ---- Splash TFT
+https://raw.communitydragon.org/latest/game/assets/ux/traiticons/  ------------- Icones Origens/Classes TFT
+https://github.com/CommunityDragon/Docs/blob/master/assets.md ------------------ Ajuda com os Paths
+https://raw.communitydragon.org/pbe/game/assets/maps/particles/tft/ ------------ Icones Build TFT
+https://raw.communitydragon.org/pbe/game/assets/loadouts/regalia/banners/ ------ Banners rankeds
+https://raw.communitydragon.org/pbe/game/assets/loadouts/regalia/crests/ ------- Bordas do icone ranked e Lv
